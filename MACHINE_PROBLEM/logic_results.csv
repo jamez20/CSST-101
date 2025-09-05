@@ -1,0 +1,14 @@
+Timestamp,Student Name,Rule,Result
+2025-09-05 21:50:39,aljames,Login Rule,Satisfied
+2025-09-05 21:50:47,aljames,Login Rule,Satisfied
+2025-09-05 21:51:12,aljames,Bonus Rule,Satisfied
+2025-09-05 21:51:30,aljames,Attendance Rule,Satisfied
+2025-09-05 21:53:08,kumar,Attendance Rule,Violated
+2025-09-05 21:53:16,kumar,Grading Rule,Satisfied
+2025-09-05 21:53:21,kumar,Login Rule,Satisfied
+2025-09-05 21:53:28,kumar,Bonus Rule,Satisfied
+2025-09-05 21:53:54,ella,Attendance Rule,Satisfied
+2025-09-05 21:53:58,ella,Grading Rule,Satisfied
+2025-09-05 21:54:08,ella,Login Rule,Satisfied
+2025-09-05 21:54:11,ella,Bonus Rule,Satisfied
+2025-09-05 21:54:15,ella,Bonus Rule,Satisfied
