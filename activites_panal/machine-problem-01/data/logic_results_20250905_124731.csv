@@ -1,0 +1,6 @@
+Timestamp,Student Name,Rule,Result
+2025-09-05 12:47:02,Ian,Attendance Rule,Violated ✗
+2025-09-05 12:47:07,Ian,Grading Rule,Satisfied ✓
+2025-09-05 12:47:11,Ian,Login Rule,Access granted ✓
+2025-09-05 12:47:24,Ian,Library Rule,Allowed to borrow ✓
+2025-09-05 12:47:27,Ian,Bonus Rule,Satisfied ✓

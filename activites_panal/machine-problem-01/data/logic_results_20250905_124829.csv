@@ -1,0 +1,6 @@
+Timestamp,Student Name,Rule,Result
+2025-09-05 12:48:06,Jeremy,Attendance Rule,Satisfied ✓
+2025-09-05 12:48:11,Jeremy,Grading Rule,Satisfied ✓
+2025-09-05 12:48:17,Jeremy,Login Rule,Access granted ✓
+2025-09-05 12:48:23,Jeremy,Library Rule,Allowed to borrow ✓
+2025-09-05 12:48:27,Jeremy,Bonus Rule,Satisfied ✓

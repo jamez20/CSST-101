@@ -1,0 +1,20 @@
+5-Fold Cross Validation Results
+================================
+Dataset: Breast Cancer Wisconsin
+Model: Logistic Regression
+
+Individual Fold Scores:
+  Fold 1: 0.9825 (98.25%)
+  Fold 2: 0.9825 (98.25%)
+  Fold 3: 0.9737 (97.37%)
+  Fold 4: 0.9737 (97.37%)
+  Fold 5: 0.9912 (99.12%)
+
+Summary Statistics:
+  Mean Accuracy: 0.9807 (98.07%)
+  Standard Deviation: 0.0065 (0.65%)
+  95% Confidence Interval: [0.9679 - 0.9935]
+
+Interpretation:
+  The low standard deviation indicates consistent model performance
+  across different data subsets, suggesting good generalization.
